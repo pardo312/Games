@@ -11,20 +11,20 @@
 	path = 1.CURRENT_GAMES/MineSweeperALike
 	url = https://github.com/pardo312/MineSweeperALike.git
 [submodule "LoveGame"]
-	path = LoveGame
+	path = 2.ARCHIVE/LoveGame
 	url = https://github.com/pardo312/LoveGame.git
 [submodule "BoomAway"]
-	path = BoomAway
+	path = 2.ARCHIVE/BoomAway
 	url = https://github.com/pardo312/BoomAway
 [submodule "Amelyore"]
-	path = Amelyore
+	path = 2.ARCHIVE/Amelyore
 	url = https://github.com/pardo312/Amelyore.git
 [submodule "SummerGame"]
-	path = SummerGame
+	path = 2.ARCHIVE/SummerGame
 	url = https://github.com/pardo312/SummerGame.git
 [submodule "ColorSwitcher"]
-	path = ColorSwitcher
+	path = 2.ARCHIVE/ColorSwitcher
 	url = https://github.com/pardo312/ColorSwitcher.git
 [submodule "BubbleMania"]
-	path = BubbleMania
+	path = 2.ARCHIVE/BubbleMania
 	url = https://github.com/pardo312/BubbleMania.git
