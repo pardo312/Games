@@ -10,3 +10,9 @@
 [submodule "MineSweeperALike"]
 	path = 1.CURRENT_GAMES/MineSweeperALike
 	url = https://github.com/pardo312/MineSweeperALike.git
+[submodule "LoveGame"]
+	path = LoveGame
+	url = https://github.com/pardo312/LoveGame.git
+[submodule "BoomAway"]
+	path = BoomAway
+	url = https://github.com/pardo312/BoomAway
