@@ -1,0 +1,3 @@
+[submodule "FlappyBirdMP"]
+	path = FlappyBirdMP
+	url = ./FlappyBirdMP
