@@ -1,3 +1,12 @@
 [submodule "FlappyBirdMP"]
 	path = FlappyBirdMP
 	url = https://github.com/pardo312/FlappyPals.git
+[submodule "All-Stars Tennis"]
+	path = All-Stars Tennis
+	url = https://github.com/pardo312/All-Stars_Tennis.git
+[submodule "TetrisAlikeForAndroid"]
+	path = TetrisAlikeForAndroid
+	url = https://github.com/pardo312/TetrisAlikeForAndroid.git
+[submodule "MineSweeperALike"]
+	path = MineSweeperALike
+	url = https://github.com/pardo312/MineSweeperALike.git
