@@ -16,3 +16,15 @@
 [submodule "BoomAway"]
 	path = BoomAway
 	url = https://github.com/pardo312/BoomAway
+[submodule "Amelyore"]
+	path = Amelyore
+	url = https://github.com/pardo312/Amelyore.git
+[submodule "SummerGame"]
+	path = SummerGame
+	url = https://github.com/pardo312/SummerGame.git
+[submodule "ColorSwitcher"]
+	path = ColorSwitcher
+	url = https://github.com/pardo312/ColorSwitcher.git
+[submodule "BubbleMania"]
+	path = BubbleMania
+	url = https://github.com/pardo312/BubbleMania.git
