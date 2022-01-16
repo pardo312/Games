@@ -1,0 +1,3 @@
+[submodule "FlappyBirdMP"]
+	path = FlappyBirdMP
+	url = https://github.com/pardo312/FlappyPals.git
